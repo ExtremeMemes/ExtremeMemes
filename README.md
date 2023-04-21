@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Extreme</h1>
 <h3 align="center">I am a very funny guy who can barely code, but is a Self-Appointed IT Guy.</h3>
-- [all my links: https://extremelinks.github.io/](https://extremelinks.github.io/)
+<h3 align="center">all my links: https://extremelinks.github.io</h3>
+
 - I heck in java, batch, and a little python. ~~Learning C++~~.
 - I make small toolkits time to time, such as internet toolkit, or IDM Toolkit
 - Good friend [here (HeckerDaGreat57)](https://github.com/HackerDaGreat57)
