@@ -19,7 +19,7 @@
 ![am i good?](https://github-readme-stats.vercel.app/api?username=ExtremeMemes&show_icons=true&theme=buefy)
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeMemes&layout=compact&theme=buefy&hide_border=true)
 ## Contact
-contact me on Discord, `Extreme#5595` or ask me anything [here (Issues page of this repo)](https://github.com/ExtremeMemes/ExtremeMemes)
+contact me on Discord, `@extremememes` or ask me anything [here (Issues page of this repo)](https://github.com/ExtremeMemes/ExtremeMemes)
 
 <!--
 **ExtremeMemes/ExtremeMemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
